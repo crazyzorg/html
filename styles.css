@@ -1,0 +1,15 @@
+body {
+    background-color: #ffae00;
+    color: #0f141e;
+    
+    font-size: 16px;
+    font-family: 'helveticaneuecyrroman', 'Arial', 'Helvetica', 'sans-serif';
+}
+
+.header {
+    text-align: center;
+}
+
+.forms {
+    text-align: center;
+}
